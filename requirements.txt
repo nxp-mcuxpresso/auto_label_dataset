@@ -1,0 +1,8 @@
+pyqt5
+numpy
+opencv-python
+#tarfile
+onnxruntime
+jinja2
+
+

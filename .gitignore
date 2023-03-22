@@ -1,0 +1,11 @@
+.vscode
+__pycache__
+*.pyc
+*.tar
+output
+yolo/__pycache__
+*.spec
+build/
+dist/
+venv
+packages

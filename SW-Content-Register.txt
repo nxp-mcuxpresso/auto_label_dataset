@@ -1,0 +1,7 @@
+Package name: auto label dataset
+Version: 0.10.0
+Outgoing License: MIT
+License File: "./LICENSE" file
+Description and/or comments: Auto Label tool is used to label and create object detection (OD) data sets. It supports importing JPGE, JPG pictures or MP4 format videos, automatically marking the objects in the pictures or using the mouse to draw a frame in the pictures and label the object types. The automatic annotation function is realized by Yolo V7 model, which is trained based on coco data set.
+Release location: https://github.com/nxpmicro/auto_label_dataset
+Origin: NXP
